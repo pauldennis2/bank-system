@@ -1,0 +1,9 @@
+user.name=Paul
+account.name=Paulcha
+account.type=checking
+account.initBalance=1.0
+account.currentBalance=101.0
+account.name=Paulsa
+account.type=savings
+account.initBalance=500.0
+account.currentBalance=855.8585349290502

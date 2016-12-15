@@ -1,0 +1,5 @@
+user.name=Sally
+account.name=SallyIra
+account.type=retirement
+account.initBalance=1000.0
+account.currentBalance=1331.0

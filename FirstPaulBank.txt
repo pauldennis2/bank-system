@@ -1,0 +1,4 @@
+bank.name=FirstPaulBank
+bank.totalBalance=2287.85853492905
+Paul,Sally
+2016-12-08T16:08:04.575
